@@ -1,7 +1,8 @@
 - # um pouco de mim 🥵😈
 - ## olá 🐙
 - 👋 Hi, I’m @lumi2830
-- 🤑meu email de contetao é miguel.cravalheirodo.nascimento@escola.pr.gov.br
+- 🤑meu email de contetao é...
+[email] (miguel.cravalheirodo.nascimento@escola.pr.gov.br)
 - 👀 eu adoro me amarro na  literatura e o céu 🥰
 - 🌱 I’m currently learning ...
 - 💞️  eu estou solteiro ...
